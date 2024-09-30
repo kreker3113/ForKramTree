@@ -1,0 +1,5 @@
+﻿  ForKram2.cpp
+C:\Users\Uzer\source\repos\ForKram2\ForKram2\ForKram2.cpp(38,5): error C3861: generate_words_recursive: идентификатор не найден
+C:\Users\Uzer\source\repos\ForKram2\ForKram2\ForKram2.cpp(71,5): error C3861: generate_words_recursive_6: идентификатор не найден
+C:\Users\Uzer\source\repos\ForKram2\ForKram2\ForKram2.cpp(108,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Uzer\source\repos\ForKram2\ForKram2\ForKram2.cpp(109,96): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
